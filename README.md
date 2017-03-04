@@ -8,7 +8,7 @@ Python scripts for downloading materials from http://www.rt-rk.uns.ac.rs/. This 
 
 ## Installation
 
-These spiders are using Scrapy library for python. [**Here**] are instructions for installation.
+These spiders are using Scrapy library for python. [**Here**](https://doc.scrapy.org/en/latest/intro/install.html) are instructions for installation.
 
 ## Usage
 
