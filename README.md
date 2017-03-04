@@ -17,5 +17,5 @@ To run spider (for lectures) type:
 
 >scrapy runspider rtrkLec-dl.py -a link="http://www.rt-rk.uns.ac.rs/predmeti/zeljeni/predmet" -a dir="/path/to/dir"
 
-**link** argumet is required to run spider
+**link** argumet is required to run spider  
 **dir** argument is optional. If not used, files be downloaded to spider's directory
